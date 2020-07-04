@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Class Material
+Module 19-Detailed-Rubric.pdf
+
+
 # C extensions
 *.so
 
